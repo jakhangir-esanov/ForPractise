@@ -1,0 +1,14 @@
+D:\VisualStudio\Conversion\Conversion.Console\bin\Debug\net8.0\Conversion.Console.exe
+D:\VisualStudio\Conversion\Conversion.Console\bin\Debug\net8.0\Conversion.Console.deps.json
+D:\VisualStudio\Conversion\Conversion.Console\bin\Debug\net8.0\Conversion.Console.runtimeconfig.json
+D:\VisualStudio\Conversion\Conversion.Console\bin\Debug\net8.0\Conversion.Console.dll
+D:\VisualStudio\Conversion\Conversion.Console\bin\Debug\net8.0\Conversion.Console.pdb
+D:\VisualStudio\Conversion\Conversion.Console\obj\Debug\net8.0\Conversion.Console.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio\Conversion\Conversion.Console\obj\Debug\net8.0\Conversion.Console.AssemblyInfoInputs.cache
+D:\VisualStudio\Conversion\Conversion.Console\obj\Debug\net8.0\Conversion.Console.AssemblyInfo.cs
+D:\VisualStudio\Conversion\Conversion.Console\obj\Debug\net8.0\Conversion.Console.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Conversion\Conversion.Console\obj\Debug\net8.0\Conversion.Console.dll
+D:\VisualStudio\Conversion\Conversion.Console\obj\Debug\net8.0\refint\Conversion.Console.dll
+D:\VisualStudio\Conversion\Conversion.Console\obj\Debug\net8.0\Conversion.Console.pdb
+D:\VisualStudio\Conversion\Conversion.Console\obj\Debug\net8.0\Conversion.Console.genruntimeconfig.cache
+D:\VisualStudio\Conversion\Conversion.Console\obj\Debug\net8.0\ref\Conversion.Console.dll
